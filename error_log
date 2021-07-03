@@ -1,0 +1,1 @@
+[28-Jun-2021 07:05:18 UTC] PHP Fatal error:  Cannot redeclare Welcome::update_password() in /home/enlistwo/public_html/application/controllers/Welcome.php on line 274
